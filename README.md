@@ -1,4 +1,4 @@
-# 😎 Acerca de mí / About Me:
+# 👇🏽 Acerca de mí / About Me:
 
 - 🧭 De Colombia / From Colombia
 - 🕸 Programador, Desarrollador Web
