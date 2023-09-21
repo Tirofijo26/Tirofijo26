@@ -20,7 +20,7 @@
 const about_me = {
     Edad: 20,
     Nacionalidad: "Colombiano",
-    Ciudad: "Barranacebermeja",
+    Ciudad: "Barrancabermeja",
     Main_Lenguajes: [
         "java", "Python", "PHP", "C#"
     ],
