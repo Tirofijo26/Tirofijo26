@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.tenor.com/QXVs4QWLlzkAAAAC/spider-man.gif" alt="Texto" />
 </p>
+___________________________________________________________________________________
 # 👇🏽 Acerca de mí / About Me:
 
 - 🧭 De Colombia / From Colombia
