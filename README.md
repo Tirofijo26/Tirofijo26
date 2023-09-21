@@ -1,16 +1,25 @@
-### Hi there 👋
+# 😎 Acerca de mí / About Me:
 
-<!--
-**Tirofijo26/Tirofijo26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧭 De Colombia / From Colombia
+- 🕸 Programador, Desarrollador Web
+- 💻 Estudiante de ing. sistemas
 
-Here are some ideas to get you started:
+## 🔗 Contacto / Contact Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [jhon92600@gmail.com](jhon92600@gmail.com)
+
+## Conoce Más Sobre Mí
+
+```javascript
+const about_me = {
+    Edad: 17,
+    Nacionalidad: "Colombiano",
+    Ciudad: "Barranacebermeja",
+    Main_Lenguajes: [
+        "java", "Python", "PHP", "C#"
+    ],
+    Manejo: [
+        "CSS", "SQL"
+    ]
+};
+
