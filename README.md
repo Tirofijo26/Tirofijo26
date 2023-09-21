@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fspider-man-gifs&psig=AOvVaw1VR9JxuFwykpVePE94ivTe&ust=1695399331756000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi_k-mMvIEDFQAAAAAdAAAAABAQ)
+![texto](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fspider-man-gifs&psig=AOvVaw1VR9JxuFwykpVePE94ivTe&ust=1695399331756000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi_k-mMvIEDFQAAAAAdAAAAABAQ)
 
 # 👇🏽 Acerca de mí / About Me:
 
